@@ -1,1 +1,1 @@
-Calendar, Calculator, Clock, Drawing Board, Stop Timmer & Weather
+Calendar, Calculator, Clock, Drawing Board, Stop Timmer & Weather in React + Vite
